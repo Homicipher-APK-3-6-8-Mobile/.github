@@ -114,3 +114,4 @@
 
 <p>The heart-pounding horror experience offered by Homicipher APK blends survival strategy storytelling into one seamless mobile package! Whether sneaking past an antagonist solving puzzles unraveling mysteries within its setting; this title delivers thrills chills at every turn! Download latest version today step into world filled terror suspense—but remember—stay quiet hidden survive all costs!</p>
 
+   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Homicipher-APK-3-6-8-Mobile)
